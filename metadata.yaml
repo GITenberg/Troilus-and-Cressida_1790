@@ -1,5 +1,5 @@
 _repo: Troilus-and-Cressida_1790
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Troilus (Legendary character) -- Drama'
 - !lcsh 'Trojan War -- Drama'
 - !lcc 'PR'
+- GITenberg
 title: Troilus and Cressida
 url: http://www.gutenberg.org/ebooks/1790
